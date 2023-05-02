@@ -1,5 +1,6 @@
 # Exploratory-Data-Analysis
 ![](Display_Image.JPG)
+
 **This project will help in developing the skills in data visualization and basic data cleaning.**
 
 1. Load the required libraries: The necessary libraries are imported to the code to perform data analysis and visualization.
